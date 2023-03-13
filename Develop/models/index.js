@@ -3,7 +3,7 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
-const { FOREIGNKEYS } = require('sequelize/types/query-types');
+// const { FOREIGNKEYS } = require('sequelize/types/query-types');
 
 
 // Products belongsTo Category
@@ -11,13 +11,12 @@ const { FOREIGNKEYS } = require('sequelize/types/query-types');
 Product.belongsTo
   (Category, {
     foreignKey: 'category_id',
-    // this will delete prodcut if category is deleted
+    // this will delete product if category is deleted
     ondelete: 'CASCADE',
   });
 
 
 // Categories have many Products
-
 Category.hasMany
   (Product, {
     foreignKey: 'category_id',
