@@ -2,8 +2,6 @@ const express = require('express');
 const routes = require('./routes');
 // import sequelize connection (DONE)
 const sequelize = require('./config/connection')
-
-const SequelizeStore = require('connect-session-sequelize')(session.Store);
 require('./models');
 
 const app = express();

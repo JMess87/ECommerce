@@ -15,12 +15,12 @@ Product.init(
       autoIncrement: true,
       primaryKey: true
     },
-    product_name: {
+    name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
     price: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.DECIMAL,
       allowNull: false,
     },
     stock: {
