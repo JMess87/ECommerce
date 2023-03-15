@@ -15,7 +15,7 @@ Product.init(
       autoIncrement: true,
       primaryKey: true
     },
-    name: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
@@ -40,7 +40,7 @@ Product.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'category',
+    modelName: 'product',
   }
 );
 
