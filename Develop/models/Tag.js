@@ -12,7 +12,7 @@ Tag.init(
       autoIncrement: true,
       primaryKey: true
     },
-    tag_name: DataTypes.CHAR
+    name: DataTypes.CHAR
   },
   {
     sequelize,
