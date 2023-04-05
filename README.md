@@ -24,23 +24,43 @@ Starter code was given for this assignment, I was tasked with up dating. Schema,
 
 ## Screen Shots
 
+Blank DB
+
 ![DB Blank 1](https://user-images.githubusercontent.com/116509586/230180813-33bd496a-cef9-4506-aca6-dbdd8e9bc8b2.jpg)
+
+Schema Create
 
 ![DB Schema Create 2](https://user-images.githubusercontent.com/116509586/230180851-97c52f80-183f-4c01-85cd-a3383ebc3c66.jpg)
 
+Start the APP
+
 ![Start App 3](https://user-images.githubusercontent.com/116509586/230180879-a9c0256f-2593-41f2-8439-b63510a58851.jpg)
+
+Seed the DB
 
 ![Seed the DB 4](https://user-images.githubusercontent.com/116509586/230180898-bc10966c-f2e3-4bbd-8e2b-156259654ef0.jpg)
 
+DB Tables
+
 ![DB Tables](https://user-images.githubusercontent.com/116509586/230180925-7fe68752-7c6a-415e-acd1-78be83900479.jpg)
+
+CATEGORY TABLE
 
 ![Category Table 6](https://user-images.githubusercontent.com/116509586/230180942-74d9d70a-2ed4-4f70-add1-7d35dcec8037.jpg)
 
+PRODUCT TABLE
+
 ![Product Table 7](https://user-images.githubusercontent.com/116509586/230181002-f3d027ed-5d44-490a-9e99-f21b5ae07c72.jpg)
+
+PRODUCT TAG TABLE
 
 ![Product Tag Table 8](https://user-images.githubusercontent.com/116509586/230181077-809835a8-ac6f-4954-b357-bb17d211359f.jpg)
 
+TAG TABLE
+
 ![Tag Table 9](https://user-images.githubusercontent.com/116509586/230181102-49a8846c-fba6-4cf1-99f5-64bda724317e.jpg)
+
+
 
 
 ## Video Links
